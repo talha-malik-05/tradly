@@ -9,4 +9,5 @@
     <color name="white">#FFFFFFFF</color>
     <color name="light_white">#F6F9FF</color>
     <color name="light_black">#4F4F4F</color>
+    <color name="hint_clr">#AFAFAF</color>
 </resources>
