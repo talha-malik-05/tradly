@@ -36,18 +36,20 @@
             android:layout_marginVertical="20dp"
             android:src="@drawable/intro1"/>
     </LinearLayout>
+
     <TextView
         android:id="@+id/introTitle"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:gravity="center"
-        android:layout_marginTop="10dp"
-        android:text="Empowering Artisans,\nFarmers &amp; Micro Business"
-        android:textColor="@color/purple_500"
         android:layout_below="@id/imgLayout"
         android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:text="@string/desc1"
+        android:textColor="@color/purple_500"
         android:textSize="20sp"
         android:fontFamily="@font/montserrat_medium"/>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
